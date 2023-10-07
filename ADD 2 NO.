@@ -1,6 +1,3 @@
-To create a simple HTML page that allows users to add two numbers, you can use HTML along with JavaScript. Here's a basic example:
-
-```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -29,6 +26,4 @@ To create a simple HTML page that allows users to add two numbers, you can use H
     </script>
 </body>
 </html>
-```
 
-This code creates a simple HTML form with two input fields for entering numbers and a button to trigger the addition. When the "Add" button is clicked, the JavaScript function `addNumbers()` is called, which retrieves the values from the input fields, adds them, and displays the result in a `<span>` element with the id "result".
